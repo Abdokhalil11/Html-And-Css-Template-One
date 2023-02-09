@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "template_one",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "template_one"
+	}
+}
